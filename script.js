@@ -1,3 +1,3 @@
 setInterval(()=> {
-window.location.reload();
+console.log(1);
 }, 5000);
