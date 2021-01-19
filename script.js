@@ -1,2 +1,3 @@
-1234
-1234
+setInterval(()=> {
+window.location.reload();
+}, 5000);
