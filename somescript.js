@@ -3,4 +3,3 @@
 
 'add new line 3';
 'add new line 4'
-'do something ';
