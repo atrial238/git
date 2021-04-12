@@ -5,3 +5,4 @@
 'add new line 4'
 'do something ';
 'add line 5'
+'it was done in master'
