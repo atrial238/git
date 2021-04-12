@@ -8,6 +8,6 @@
 
 'it was done in master'
 
-'new change1'
+
 
 'new change2'
