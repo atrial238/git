@@ -5,8 +5,8 @@
 'add new line 4'
 'do something ';
 'add line 5'
-<<<<<<< HEAD
-'it was done in master'
-=======
 
->>>>>>> newbranch
+'it was done in master'
+
+
+
